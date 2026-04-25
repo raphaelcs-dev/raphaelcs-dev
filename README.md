@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨‍💻 Raphael 
+Olá! Eu sou o Raphael
 
-<!--
-**raphaelcs-dev/raphaelcs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 16 anos e estou cursando **Desenvolvimento de Sistemas** na Etec (M-tec).
+📚 Atualmente no 2° ano do ensino médio
+💻 Em constante evolução na área de programação.
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim 
+
+Sou um estudante focado em evoluir na área de tecnologia, buscando aprender cada vez mais através da prática. 
+Tenho interesse em Desenvolvimento de Software e estou construindo minha base para se tornar um desenvolvedor.
